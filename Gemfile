@@ -17,7 +17,7 @@ gem "stimulus-rails"
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 gem "jbuilder"
 
-gem 'httparty', '~> 0.22.0'
+gem 'httparty', '~> 0.23.0'
 
 # gem 'bootstrap', '~> 4.0'
 #
